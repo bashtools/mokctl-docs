@@ -1,16 +1,10 @@
 # My Own Kind
 
-![](docs/images/install-mokctl-linux.gif)
-
-View a [Transcript of the screenscast](/docs/install-mokctl-linux.md).
-
-## Summary
-
-Build a verifiably conformant kubernetes cluster in containers.
+Build verifiably conformant kubernetes clusters in containers.
 
 ## Documentation
 
-The FAQ, Kubernetes the Hard Way using `mokctl`, integrating the Parser in your own project, and how `mokctl` was created are all in [Documentation](/docs/README.md).
+The FAQ, integrating the Parser in your own project, and how `mokctl` was created are all in [Documentation](/docs/README.md).
 
 ## Contributing
 
