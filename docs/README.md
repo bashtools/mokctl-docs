@@ -1,14 +1,14 @@
 # Documentation
 
-* [Mokctl command help](/docs/man-mokctl.md).
+* [Mokctl command help](/docs/man-mokctl.md)
 
-* [Frequently asked questions](faq.md).
+* [Frequently asked questions](faq.md)
 
-* [How to use the Parser library in your own project](parser.md).
+* [How to use the Parser library in your own project](parser.md)
 
-* [Publish a New Release](/docs/publish.md).
+* [Publish a New Release](/docs/publish.md)
 
-* [Troubleshooting](troubleshoot.md).
+* [Troubleshooting](troubleshoot.md)
 
 ## How Mokctl was made
 
