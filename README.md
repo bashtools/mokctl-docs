@@ -30,7 +30,7 @@ Take note of the [Status](#status) below and the [Releases](https://github.com/m
 
 ### Install on Linux, Mac and Windows
 
-> Note for **Linux** users: Cgroups 2 must be disabled. See [Install Linux](https://github.com/my-own-kind/mokctl/blob/master/docs/install-linux.md).
+> Note for **Linux** users: Cgroups 2 must be disabled. See [Linux Installation Options](https://github.com/my-own-kind/mokctl/blob/master/docs/install-linux.md).
 
 Ensure [Docker](https://www.docker.com/get-started) or [Moby](https://github.com/moby/moby) are installed first.
 
