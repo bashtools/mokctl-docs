@@ -272,6 +272,6 @@ The `process_options()` function is called by the parser each time a global opti
 
 That's all that is required to get the parser working. A parser that can grow without worry or needing to change lots of code later on.
 
-If you want to take a look it's here: [cmdline-player](/cmdline-player/cmdline-player).
+If you want to take a look it's here: [cmdline-player](https://github.com/my-own-kind/command-line-player).
 
 That's it!
