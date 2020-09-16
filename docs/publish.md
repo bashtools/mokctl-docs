@@ -14,9 +14,16 @@
 
 4. Bump version in Makefile
 
-5. Bump versions in `src/globals.sh`
+5. Bump versions in `src/globals.sh`, check for new versions in:
+   
+   https://github.com/kubernetes/kubernetes - Releases
+   
+   https://github.com/kubernetes-sigs/cri-tools/ - Releases
+   
+   https://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable:/cri-o:/
 
 6. Add version to '_CC_set_up_master_node' in `src/createcluster.sh`
+   In two places!
 
 7. Bump version in `/README.md` and `mokctl-docs/README`
 
